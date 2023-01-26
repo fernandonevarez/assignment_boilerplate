@@ -1,8 +1,8 @@
 # **Arizona State University CSE 205 - Visual Studio Code Assignment Boilerplate**
 
-This is a boilerplate layout for CSE205 assignments to allow for MacOS users to use test cases in Visual Studio Code for Java development.
+This is a boilerplate template for CSE205 console assignments to allow for MacOS users to use test cases in Visual Studio Code for Java development.
 
-Special thanks to [Ryan Woo](https://github.com/rtwoo) for setting everything up, this is a simply template for students to use based off of **HIS** code with [my](https://github.com/SloppyFlipFlop) comments to allow for better understanding for student who want to know what certain code is doing.
+Special thanks to [Ryan Woo](https://github.com/rtwoo) for developing the following code in this template, this is a simply template for students to use based off of **HIS** code with [my](https://github.com/SloppyFlipFlop) comments to allow for better understanding for student who want to know what certain code is doing and also easy template access.
 
 > NOTE: You CAN delete the `.gitignore` file in the `bin`, `src`, and `test` folder directories. As they are only included so that git will allow for these directories to be pushed to Github, as empty directories are ignored in git because they have no content in them and git only reads directories that have content within them.
 
@@ -72,6 +72,8 @@ done
 
 - Keep in mind that depending on how many test cases the assignment has, you might have to change the `4` in the for loop to fit the assignment’s needs.
 
+- Keep in mind that depending on how many test cases the assignment has, you might have to change the `4` in the for loop to fit the assignment’s needs.
+
 ## Directions for running the test cases
 
 You can run all test cases by going to the `Terminal` > `Run Task...` while the tab with your main class is selected and choosing `"Run Tests”`
@@ -102,7 +104,7 @@ You can run all test cases by going to the `Terminal` > `Run Task...` while the 
 
 ![Screenshot 2023-01-26 at 2.40.36 AM.png](readmeImages/Screenshot_2023-01-26_at_2.40.36_AM.png)
 
-3.) From there if you have no error, you will just see two identical files(like the image left). But if error show(like the image on the right), they will be highlighted for you to see and you can debug the errors from there.
+3.) From there if you have no error, you will just see two identical files(like the image top). But if error show(like the image on the bottom), they will be highlighted for you to see and you can debug the errors from there.
 
 ![Screenshot 2023-01-26 at 2.45.11 AM.png](readmeImages/Screenshot_2023-01-26_at_2.45.11_AM.png)
 
