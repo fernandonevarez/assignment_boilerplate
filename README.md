@@ -1,6 +1,8 @@
 # assignment_boilerplate
 
-This is a boilerplate layout for all CSE205 assignments to allow for MacOS users to use test cases in vscode
+This is a boilerplate layout for CSE205 assignments to allow for MacOS users to use test cases in vscode
+
+Special thanks to ==Ryan Woo== for setting everything up, this is a simply template for students to use based off of ==HIS== code
 
 ## Directions to set up test cases in vsode for MacOS users in VsCode
 
