@@ -31,15 +31,15 @@ This is a boilerplate layout for all CSE205 assignments to allow for MacOS users
 
 ### `bin` folder
 
-- This folder should hold all of your .class file. When you run the `Java: run test` it will make them automatically
+- Create a `bin` folder, this folder should hold all of your .class file. When you run the `Java: run test` it will make them automatically
 
 ### `src` folder
 
-- Should hold all you `.java` files
+- Create a `src` folder and it should hold all you `.java` files
 
 ### `test` folder
 
-- should hold all you input an output files
+- Create a `test` folder and it should hold all you input an output files
 - will output all your myoutput files into this folder for you to compare with.
 
 ### `test.sh` file
