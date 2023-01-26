@@ -2,9 +2,9 @@
 
 This is a boilerplate layout for CSE205 assignments to allow for MacOS users to use test cases in vscode for java development
 
-Special thanks to `Ryan Woo` for setting everything up, this is a simply template for students to use based off of `HIS` code
+Special thanks to `Ryan Woo` for setting everything up, this is a simply template for students to use based off of `HIS` code with my commets to allow for better understanding for student who want to know what certain code is going lol
 
-## Directions to set up test cases in vsode for MacOS users in VsCode
+## Directions to set up test cases in vsode for MacOS users
 
 ### `.vscode` Folder
 
@@ -51,7 +51,7 @@ Special thanks to `Ryan Woo` for setting everything up, this is a simply templat
 ```json:
   #!/bin/bash
   for ((i=1; i<=4; i++)) do
-      echo "Testing case $i" # prints which test case number it's currently   testing
+      echo "Testing case $i" # prints which test case number it's currently testing
 
       # Compiles the java file and runs it with the input file and outputs the  result to myout$i.txt(depends on which test case it's currently testing)
       java -cp bin/ $1 < test/input$i.txt > test/myout$i.txt
