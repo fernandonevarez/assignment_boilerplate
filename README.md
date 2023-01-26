@@ -14,14 +14,18 @@ This is a boilerplate template for CSE205 console assignments to allow for MacOS
 
 - If you don’t already have a `.vscode` folder, create one.
 - You should have two files in `.vsode`
+
   1.) `settings.json`
+
   ```json
   {
     "java.project.sourcePaths": ["src"], // Source folder
     "java.project.outputPath": "bin" // Output folder
   }
   ```
+
   2.) `tasks.json`
+
   ```json
   {
     "version": "2.0.0",
