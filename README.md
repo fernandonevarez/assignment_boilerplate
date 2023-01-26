@@ -2,8 +2,6 @@
 
 This is a boilerplate template for CSE205 console assignments to allow for MacOS users to use test cases in Visual Studio Code for Java development.
 
-Special thanks to [Ryan Woo](https://github.com/rtwoo) for developing the following code in this template, this is a simply template for students to use based off of **HIS** code with [my](https://github.com/SloppyFlipFlop) comments to allow for better understanding for student who want to know what certain code is doing and also easy template access.
-
 > NOTE: You CAN delete the `.gitignore` file in the `bin`, `src`, and `test` folder directories. As they are only included so that git will allow for these directories to be pushed to Github, as empty directories are ignored in git because they have no content in them and git only reads directories that have content within them.
 
 ## Requirements
