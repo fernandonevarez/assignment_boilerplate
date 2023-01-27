@@ -1,8 +1,9 @@
 # **Arizona State University CSE 205 - Visual Studio Code Assignment Boilerplate**
 
-This is a boilerplate template for CSE205 console assignments to allow for MacOS users to use test cases in Visual Studio Code for Java development.
+This is a boilerplate template for CSE205 console assignments to allow for UNIX-like system(macOS, WSL/Cygwin/MinGW, pretty much any Linux distro) users to use test cases in Visual Studio Code for Java development.
 
 > NOTE: You CAN delete the `.gitignore` file in the `bin`, `src`, and `test` folder directories. As they are only included so that git will allow for these directories to be pushed to Github, as empty directories are ignored in git because they have no content in them and git only reads directories that have content within them.
+> NOTE: If you are running Windows, you can use test cases in Visual Studio Code by useing this temple [here](https://github.com/rtwoo/ASU_CSE205_AssignmentBoilerPlate_Windows).
 
 ## Requirements
 
@@ -71,8 +72,6 @@ for ((i=1; i<=4; i++)) do # Loops through the 4 test cases, might need to change
     diff test/myout$i.txt test/output$i.txt
 done
 ```
-
-- Keep in mind that depending on how many test cases the assignment has, you might have to change the `4` in the for loop to fit the assignment’s needs.
 
 - Keep in mind that depending on how many test cases the assignment has, you might have to change the `4` in the for loop to fit the assignment’s needs.
 
