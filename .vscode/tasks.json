@@ -1,15 +1,38 @@
 {
-  "version": "2.0.0",
-  "tasks": [
-    {
-      "label": "Run Tests",
-      "type": "shell",
-      "command": "./test.sh ${fileBasenameNoExtension}",
-      "problemMatcher": [],
-      "group": {
-        "kind": "build",
-        "isDefault": true
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Run Tests (Range)",
+        "type": "shell",
+        "command": "./test.sh ${fileBasenameNoExtension} ${input:minTest} ${input:maxTest}",
+        "problemMatcher": [],
+        "group": {
+          "kind": "build",
+        }
+      },
+      {
+        "label": "Run Tests (Default: 4)",
+        "type": "shell",
+        "command": "./test.sh ${fileBasenameNoExtension} 1 4",
+        "problemMatcher": [],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        }
       }
-    }
-  ]
-}
+    ],
+    "inputs": [
+      {
+        "id": "minTest",
+        "type": "promptString",
+        "default": "1",
+        "description": "First test case"
+      },
+      {
+        "id": "maxTest",
+        "type": "promptString",
+        "default": "4",
+        "description": "Last test case"
+      }
+    ]
+  }

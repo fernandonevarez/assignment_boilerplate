@@ -1,8 +1,0 @@
-A
-Fighter/150/Vilkas/90/70/Sword/Melee
-L
-C
-A
-Mage/100/Tolfdir/125/150/Staff/.25
-L
-Q
