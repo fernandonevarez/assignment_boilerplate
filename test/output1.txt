@@ -1,0 +1,53 @@
+Welcome to the battle stats simulator!
+Choice		Action
+------		------
+A		Add Hero
+C		Compute Combat Points
+D		Count Heroes with Minimum Combat Points
+L		List Heroes
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+Please enter your hero stats:
+
+What action would you like to perform?
+
+Fighter Hero:		Melee Type
+Hero name:		Vilkas
+Current Health:		150.0
+Stamina:		90
+Attack Damage:		70
+Weapon:			Sword
+Current Combat Points:	0
+Armor:			50%
+
+What action would you like to perform?
+Combat points computed
+
+What action would you like to perform?
+Please enter your hero stats:
+
+What action would you like to perform?
+
+Fighter Hero:		Melee Type
+Hero name:		Vilkas
+Current Health:		150.0
+Stamina:		90
+Attack Damage:		70
+Weapon:			Sword
+Current Combat Points:	220
+Armor:			50%
+
+Mage Hero:
+Hero name:		Tolfdir
+Current Health:		100.0
+Stamina:		125
+Attack Damage:		150
+Weapon:			Staff
+Current Combat Points:	0
+Mana:			25%
+
+What action would you like to perform?
+Thanks for playing!

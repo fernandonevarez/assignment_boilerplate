@@ -1,0 +1,23 @@
+A
+Fighter/120/Aela/125/150/No Weapon/Range
+A
+Fighter/150/Vilkas/90/130/No Weapon/Melee
+A
+Mage/100/Tolfdir/125/150/No Weapon/0.25
+A
+Fighter/90/Astrid/100/125/No Weapon/Melee
+A
+Mage/120/Faralda/120/100/No Weapon/0.40
+C
+D
+150
+D
+250
+D
+50
+L
+Y
+u
+k
+P
+Q
