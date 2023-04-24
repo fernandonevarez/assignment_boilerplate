@@ -4,7 +4,7 @@ This is a boilerplate template for CSE205 console assignments to allow for UNIX-
 
 > NOTE: You CAN delete the `.gitignore` file in the `bin`, `src`, and `test` folder directories. As they are only included so that git will allow for these directories to be pushed to Github, as empty directories are ignored in git because they have no content in them and git only reads directories that have content within them.
 > 
-> NOTE: If you are running Windows, you can use test cases in Visual Studio Code by useing this temple [here](https://github.com/rtwoo/ASU_CSE205_AssignmentBoilerPlate_Windows).
+> NOTE: If you are running Windows, you can use test cases in Visual Studio Code by useing this temple [here](https://github.com/rtwoo/ASU_CSE205_AssignmentBoilerPlate_Windows) by Ryan Woo.
 
 ## Requirements
 
